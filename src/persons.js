@@ -1999,5 +1999,21 @@ export const persons = [
          country: "India"
       }
   }
+    {
+    id: 118,
+    name: "Rohail Agneshius",
+    img: "",
+    links: {
+      website: "",
+      linkedin: "",
+      github: "https://github.com/rohail3107"
+    },
+    jobTitle: "Web Developer",
+    location: {
+      city: "Sydney",
+      state: "NSW",
+      country: "Australia"
+    }
+  },
 ];
 
